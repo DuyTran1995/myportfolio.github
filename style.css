@@ -611,7 +611,8 @@ body {
       display: block; }
       .portfolio .container .row .col .card-portfolio img {
         width: 100%;
-        background-color: #cccccc; }
+        background-color: #cccccc;
+        height: 164px; }
       .portfolio .container .row .col .card-portfolio h4, .portfolio .container .row .col .card-portfolio p {
         text-align: left;
         padding: 0.3em;
